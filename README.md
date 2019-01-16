@@ -33,7 +33,7 @@ Go언어는 2007년 구글에서 개발을 시작하여 2012년에 버전 1.0을
 - 특별한 점
     - Loop는 for만 지원 ([예시](https://github.com/Tiny-Haru/Go-Study/blob/master/For%20Loop/main.go))
     - if 앞에도 for처럼 전처리 statement 지원 ([예시](https://github.com/Tiny-Haru/Go-Study/blob/master/If%20Statement/main.go))
-    - 포인터를 지원하지만, 포인터에 관한 복잡성을 없애기 위해 포인터간 연산은 불가능
+    - 포인터를 지원하지만, 포인터에 관한 복잡성을 없애기 위해 포인터간 연산은 많이 제한되어있다. [예외](https://go101.org/article/unsafe.html)
     - 구조체를 지원하고, 태그 개념을 통해 재사용성을 높임.
     - 초 경량 스레드를 사용하는 '고루틴'과 '채널'이라는 강력한 동시성을 지원.
 
