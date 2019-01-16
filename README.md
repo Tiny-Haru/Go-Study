@@ -1,7 +1,7 @@
 # Go-Study
 
 ## Go
-![Gopher image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGebl3KhPqL1evdgIt5T4iFKJ8UX0IlQsXp92lXJQUgQaOLPb)
+![Gopher image](https://sdtimes.com/wp-content/uploads/2014/12/1212.sdt-github.jpg)
 
 ```
 Go is an open source programming language that makes it easy to build simple,
