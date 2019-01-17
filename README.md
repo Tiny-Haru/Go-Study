@@ -1,5 +1,10 @@
 # Go-Study
 
+## 시작하기 전
+Go에 대한 개념을 다져보고자 만든 레포지터리 입니다.
+
+잘못된 내용, 오타 지적 등은 매우 환영합니다.
+
 ## Go
 ![Gopher image](https://sdtimes.com/wp-content/uploads/2014/12/1212.sdt-github.jpg)
 
