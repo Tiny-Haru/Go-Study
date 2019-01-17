@@ -4,4 +4,6 @@
 
 아래 링크에 slice에 대해 잘 정리된 블로그를 넣어두었습니다. 
 
-slice 관련 추천 블로그 [주소](https://velog.io/@kimmachinegun/Go-Slice-%EC%A7%91%EC%A4%91-%ED%83%90%EA%B5%AC-t2jn1kd1gc).
+slice 관련 추천 블로그 [주소 1](https://jacking75.github.io/go_slice_array/).
+
+slice 관련 추천 블로그 [주소 2](https://velog.io/@kimmachinegun/Go-Slice-%EC%A7%91%EC%A4%91-%ED%83%90%EA%B5%AC-t2jn1kd1gc).
