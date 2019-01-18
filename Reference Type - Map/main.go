@@ -25,6 +25,7 @@ func main() {
 		"key2": 1234,
 	}
 	//리터럴을 통한 초기화
+	fmt.Println(mapping) //map[key1: 123 key2: 1234]
 
 	mapping["key3"] = 1234
 	//요소 삽입 또는 수정
