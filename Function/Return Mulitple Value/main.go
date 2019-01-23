@@ -12,5 +12,5 @@ func main() {
 	plus, minus := plma(10,5)
 	//반환값을 순서대로 변수에 대입
 
-	fmt.Println(plus, minus)
+	fmt.Println(plus, minus) //15, 5
 }
