@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Function/Anonymous Function/main.go">
+        <entry file="file://$PROJECT_DIR$/Function/Closure/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="396">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -66,6 +66,7 @@
         <option value="$PROJECT_DIR$/Function/Variable Argument &amp; Pass Slice as Function Argument/main.go" />
         <option value="$PROJECT_DIR$/Function/Function as Value/main.go" />
         <option value="$PROJECT_DIR$/Function/Anonymous Function/main.go" />
+        <option value="$PROJECT_DIR$/Function/Closure/main.go" />
       </list>
     </option>
   </component>
@@ -104,7 +105,7 @@
               <item name="Go-Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go-Study" type="462c0819:PsiDirectoryNode" />
               <item name="Function" type="462c0819:PsiDirectoryNode" />
-              <item name="Anonymous Function" type="462c0819:PsiDirectoryNode" />
+              <item name="Closure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (3)">
+  <component name="RunManager" selected="Go Build.go build main.go (4)">
     <configuration name="go build Function Basic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Study" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -172,28 +173,28 @@
       <filePath value="$PROJECT_DIR$/Function/Anonymous Function/main.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go-Study" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Value Type - Zero Value/main.go" />
+      <filePath value="$PROJECT_DIR$/Function/Closure/main.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build Function Basic.go" />
       <item itemvalue="Go Build.go build main.go (1)" />
       <item itemvalue="Go Build.go build main.go (2)" />
       <item itemvalue="Go Build.go build main.go (3)" />
+      <item itemvalue="Go Build.go build main.go (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build Function Basic.go" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +211,7 @@
     <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29321662" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29978117" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32943678" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -237,13 +238,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Reference Type - Map/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Value Type - Array &amp; len() &amp; range/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -584,7 +578,14 @@
     <entry file="file://$PROJECT_DIR$/Function/Anonymous Function/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function/Closure/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
