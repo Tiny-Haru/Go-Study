@@ -73,5 +73,3 @@ The GOPATH environment variable is used to specify directories outside of $GOROO
 ---
 ## 기타 정보들
 1. Echo : Follow the Echo [Guide](https://echo.labstack.com/guide).
-
-2. 참고 레포지토리 : Plan-B's [repository](https://github.com/JoMingyu/--Awesome-Go--).
